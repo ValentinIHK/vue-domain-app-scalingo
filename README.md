@@ -29,7 +29,7 @@ npm run lint
 
 Once you run the application, [open it.](http://localhost:8080)
 
-Default local url : **htto://localhost:8080/**
+Default local url : **http://localhost:8080/**
 
 ###  Connection
 **http://localhost:8080/Login**
