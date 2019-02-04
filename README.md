@@ -32,19 +32,19 @@ Once you run the application, [open it.](http://localhost:8080)
 Default local url : **htto://localhost:8080/**
 
 ###  Connection
-**htto://localhost:8080/Login**
+**http://localhost:8080/Login**
 
 To connect to yourself to  the application, you have to provide a token that you can generate on your [profile.](https://my.scalingo.com/profile)
 
 ### Applications
-**htto://localhost:8080/**
+**http://localhost:8080/**
 
 In the application page, you will find every application available on  your account and their informations.
 
 ![Application exemple](/src/images/app1.png)
 
 ### Domains 
-**htto://localhost:8080/[:app]**
+**http://localhost:8080/[:app]**
 
 By clicking on the settings button of an application, you will access to the applications' settings page.
 Here, you will be able to manage, add or delete a domain.
