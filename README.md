@@ -36,6 +36,8 @@ Default local url : **htto://localhost:8080/**
 
 To connect to yourself to  the application, you have to provide a token that you can generate on your [profile.](https://my.scalingo.com/profile)
 
+![Domains exemple](/src/images/app3.png)
+
 ### Applications
 **htto://localhost:8080/**
 
